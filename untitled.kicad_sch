@@ -7857,7 +7857,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2564e2fc-d573-4821-a917-0080fe2ad80c")
-		(property "Reference" "D6"
+		(property "Reference" "D4"
 			(at 129.794 26.416 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7921,7 +7921,7 @@
 		(instances
 			(project "electronic_load"
 				(path "/eb6f2439-c99a-400f-b3b0-2a7303f23577/2998a9e1-11e1-4086-bdde-6198cb9d05b5"
-					(reference "D6")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -8335,7 +8335,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b015cbe-051b-4cfa-a40e-dd5b4e6efa15")
-		(property "Reference" "D7"
+		(property "Reference" "D5"
 			(at 129.794 70.866 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8399,7 +8399,7 @@
 		(instances
 			(project "electronic_load"
 				(path "/eb6f2439-c99a-400f-b3b0-2a7303f23577/2998a9e1-11e1-4086-bdde-6198cb9d05b5"
-					(reference "D7")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -9779,7 +9779,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "401a044c-ae20-49f7-9b16-4f130fd923b7")
-		(property "Reference" "D8"
+		(property "Reference" "D6"
 			(at 129.794 117.856 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9843,7 +9843,7 @@
 		(instances
 			(project "electronic_load"
 				(path "/eb6f2439-c99a-400f-b3b0-2a7303f23577/2998a9e1-11e1-4086-bdde-6198cb9d05b5"
-					(reference "D8")
+					(reference "D6")
 					(unit 1)
 				)
 			)
